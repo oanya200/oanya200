@@ -23,7 +23,7 @@ Data Cleaning and Wrangling, Data Visualisation, Relational Databases, Dashboard
 ---
 
 ### Hello! 
-My name is Anna and that`s my Jumior DS` profile :innocent:
+My name is Anna and that`s my Jumior DS profile :innocent:
 
 ### ✨ About me ✨ 
 * 🎓 Education:
